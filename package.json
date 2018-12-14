@@ -1,0 +1,15 @@
+{
+  "name": "pxa-mqttbulktest",
+  "version": "1.0.0",
+  "description": "MQTT Bulk Push",
+  "main": "app.js",
+  "author": "Blayne Watt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "license": "SEE LICENSE IN license.txt",
+  "dependencies": {
+    "mqtt": "^2.2.1"
+  }
+}
